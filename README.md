@@ -137,8 +137,7 @@ a.commons
         JacksonUtils
             主要负责Pojo实体对象和JSON字符串之间的转换
         JwtUtils
-        ViewMessageBox
-b.tcp
+        ViewMessageBoxt
     Request
     Response
     SocketUtils
