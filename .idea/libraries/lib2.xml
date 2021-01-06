@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/jackson-core-2.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/jjwt-api-0.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/jackson-annotations-2.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/commons-dbcp2-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/commons-pool2-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQCommons/lib/jackson-databind-2.9.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

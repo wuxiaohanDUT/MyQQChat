@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.101">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QQIMServer/lib/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
